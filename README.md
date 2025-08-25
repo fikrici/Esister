@@ -19,7 +19,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Edit Apps
 
    ```
-   App/index.tsx (Main App)
+   App/index.tsx (Edit Main App)
    App/layout.tsx (Edit layout aplikasi)
    
    ```
